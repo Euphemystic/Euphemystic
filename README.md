@@ -1,16 +1,14 @@
-## Hi there 👋
+# Welcome to Euphemystic Ventures 🚀  
+### AI & OpenSearch Innovation
 
-<!--
-**Euphemystic/Euphemystic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We specialize in:
+- 🔍 **Search Technologies** (OpenSearch, Elasticsearch, Splunk)
+- 🤖 **AI & Machine Learning** (LLMs, RAG, Amazon Bedrock)
+- 🏗 **Enterprise Solutions** (Automation, Ansible, Red Hat)
 
-Here are some ideas to get you started:
+💡 We’re currently focused on internal projects, but open to strategic collaborations.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Learn more at [Euphemystic.com](https://euphemystic.com)  
+🔗 Connect on [LinkedIn](https://linkedin.com/company/Euphemystic)
+🔗 Connect on [LinkedIn](https://linkedin.com/in/TedKihm)
+
