@@ -9,6 +9,6 @@ We specialize in:
 💡 We’re currently focused on internal projects, but open to strategic collaborations.  
 
 🌐 Learn more at [Euphemystic.com](https://euphemystic.com)  
-🔗 Connect on [LinkedIn](https://linkedin.com/company/Euphemystic)
-🔗 Connect on [LinkedIn](https://linkedin.com/in/TedKihm)
+🔗 Connect to Euphemystic on [LinkedIn](https://linkedin.com/company/Euphemystic)   
+🔗 Connect to Ted Kihm on [LinkedIn](https://linkedin.com/in/TedKihm)
 
